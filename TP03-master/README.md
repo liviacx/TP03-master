@@ -17,4 +17,4 @@ Terceiro trabalho prático da disciplina de Algoritmos e Estruturas de Dados III
 - O trabalho está funcionando corretamente?
 - O trabalho está completo?
 - O trabalho é original e não a cópia de um trabalho de um colega? Sim, o trabalho é original e desenvolvido por Lívia Câmara, Sophia Carrazza e Yan Sabarense.
- ooi galera
+ ooi galera teste 2
